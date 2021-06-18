@@ -1,0 +1,46 @@
+.Select1{
+   margin-top: 20px;
+   margin-bottom: 20px;
+   size: 3;
+   width: 15%;
+  
+}
+.Select2{
+   margin-top: 20px;
+   margin-bottom: 20px;
+   size: 3;
+   width: 15%;
+  
+}
+.participation{
+   margin-top: 20px;
+   margin-bottom: 20px;
+   width: 25%;
+}
+.titletour{
+   margin-top: 20px;
+   margin-bottom: 20px;
+   
+   width: 50%;
+}
+.prize1rd{
+   margin-top: 20px;
+   margin-bottom: 20px;
+   width: 25%;
+}
+.prize2rd{
+   margin-top: 20px;
+   margin-bottom: 20px;
+   width: 25%;
+}
+
+.prize3rd{
+   margin-top: 20px;
+   margin-bottom: 20px;
+   width: 25%;
+}
+.button1{
+   width:12%;
+   margin-left: 6%;
+   background-color: brown;
+}

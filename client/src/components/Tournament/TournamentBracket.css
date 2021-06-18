@@ -1,0 +1,55 @@
+.lefttab2{
+    width: 20%;
+   
+    
+}
+.righttab2{
+    width:20%;
+    margin-left:350px;
+}
+.lefttab4{
+    width:20%;
+
+}
+.righttab4{
+width:20%;
+margin-left:350px;
+}
+.middletab4{
+    width:20%;
+    margin-left: 570px;;
+}
+.lefttab8{
+    width:20%;
+
+}
+.lefttab88{
+    width:20%;
+margin-left:350px;
+}
+.middletab8{
+    width:20%;
+    margin-left:700px;;
+}
+.righttab8{
+    width:20%;
+    margin-left: 920px;
+}
+.title{
+    margin-left:500px ;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+input::placeholder {
+    color: black;
+    font-size: 1.2em;
+    font-style: italic;
+  }
+  .b1{
+    width:15%;
+    margin-left: 40%;
+   
+    background-color: brown;
+
+   
+    
+  }
